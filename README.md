@@ -6,6 +6,7 @@ It consists mainly of:
 
 Huge thanks to the two above!
 
+I use this in my [Home Assistant setup](https://github.com/petrepa/Home-AssistantConfig), but you can use it with any kind of MQTT broker. When using with HASS, you can make some really cool automations, like making the roller blinds go up in the morning when your alarm clock rings!
 ![overview](https://github.com/petrepa/rollerblind/blob/master/Photos/overview.jpg)
 
 ## Build
