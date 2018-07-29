@@ -1,7 +1,7 @@
 # Motorized Roller Blind
 This project is a combination of several other projects.
 It consists mainly of:
-* [Code](http://kookye.com/2016/12/13/use-nodemcu-to-control-step-motor-through-mqtt-iot-protocol/)
+* [Code](https://github.com/nidayand/motor-on-roller-blind-ws/)
 * [Parts](http://www.instructables.com/id/Motorized-WiFi-IKEA-Roller-Blind/)
 
 Huge thanks to the two above!
